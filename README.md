@@ -1,2 +1,2 @@
-# Luna.cv
+.cv
 my dog site
